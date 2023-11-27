@@ -12,6 +12,11 @@ Tech : React.js, HTML, css, javascript
 <img width="1511" alt="image" src="https://github.com/tejal04/webdev-reactjs-movies/assets/24776826/fedb2b09-5b82-4ca0-a812-1322bcadd29f">
 
 
+### API Key
+In order to access API, you will need to create your personal access token and add it to `config.js` file under `src` folder. <br/>
+You may create your Bearer Access Key from [here](https://developer.themoviedb.org/docs/authentication-application#bearer-token).
+
+
 ### Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
