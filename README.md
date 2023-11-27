@@ -6,10 +6,13 @@ Tech : React.js, HTML, css, javascript
 ### User Interface
 
 #### UI-1 : Searching movies that has valid movie name : example "Batman"
-<img width="1511" alt="image" src="https://github.com/tejal04/webdev-reactjs-movies/assets/24776826/683f1dbc-011b-4a6d-857d-af30fc48c670">
+<img width="1509" alt="image" src="https://github.com/tejal04/Webdev-Reactjs-BrowseMovies/assets/24776826/008adaa8-07f6-45ea-b736-638fb2283f0b">
 
-#### UI-2 : Search value is random (non-existant movie)
-<img width="1511" alt="image" src="https://github.com/tejal04/webdev-reactjs-movies/assets/24776826/fedb2b09-5b82-4ca0-a812-1322bcadd29f">
+#### UI-2 : Mobile View (Dynamic UI)
+<img width="1509" alt="image" src="https://github.com/tejal04/Webdev-Reactjs-BrowseMovies/assets/24776826/44224ff8-064b-40b6-8005-196a22a316c5">
+
+#### UI-3 : Search value is random (non-existent movie)
+<img width="1509" alt="image" src="https://github.com/tejal04/Webdev-Reactjs-BrowseMovies/assets/24776826/616aa796-5f54-4170-8fa1-728bc221e993">
 
 
 ### API Key
